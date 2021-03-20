@@ -1,2 +1,2 @@
 # JavaFinishWork
-java结课大作业，具体实现代码。
+学生信息管理系统的GUI实现，包含基本的模块和JDBC操作。
